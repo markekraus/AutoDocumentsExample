@@ -6,7 +6,7 @@ This is an example Module for adding Automated Documentation to a PowerShell mod
 
 ## Documentaion
 
-Documentation Site: [psmsgraph.readthedocs.io](https://psmsgraph.readthedocs.io/)
+Documentation Site: [AutoDocumentsExample.readthedocs.io](https://AutoDocumentsExample.readthedocs.io/)
 
 ## Release Notes
 
