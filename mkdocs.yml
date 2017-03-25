@@ -1,0 +1,16 @@
+site_name: AutoDocumentsExample - Write The FAQ ‘n Manual
+repo_url: https://github.com/markekraus/AutoDocumentsExample
+site_author: Mark Kraus
+edit_uri: edit/master/docs/
+theme: readthedocs
+copyright: "AutoDocumentsExample is licensed under the <a href='https://github.com/markekraus/AutoDocumentsExample/raw/master/LICENSE'>MIT license"
+pages:
+  - Home: index.md
+  - Realse Notes: RELEASE.md
+  - Change Log: ChangeLog.md
+  - Functions:
+    - Add-Widget: functions/Add-Widget.md
+    - Get-Widget: functions/Get-Widget.md
+    - Remove-Widget: functions/Remove-Widget.md
+    - Set-Widget: functions/Set-Widget.md
+
