@@ -32,7 +32,7 @@
 function Add-Widget {
     [CmdletBinding(ConfirmImpact = 'Medium',
                    HelpUri = 'http://autodocumentsexample.readthedocs.io/en/latest/functions/Add-Widget.md')]
-    [OutputType([widget])]
+    [OutputType('widget')]
     param
     (
         [Parameter(Mandatory = $false,

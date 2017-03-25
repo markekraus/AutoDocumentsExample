@@ -36,9 +36,9 @@ function Get-Widget {
     [CmdletBinding(DefaultParameterSetName = 'Id',
                    ConfirmImpact = 'Medium',
                    HelpUri = 'http://autodocumentsexample.readthedocs.io/en/latest/functions/Get-Widget.md')]
-    [OutputType([widget], ParameterSetName = 'Id')]
-    [OutputType([widget], ParameterSetName = 'Name')]
-    [OutputType([widget])]
+    [OutputType('widget', ParameterSetName = 'Id')]
+    [OutputType('widget', ParameterSetName = 'Name')]
+    [OutputType('widget')]
     param
     (
         [Parameter(ParameterSetName = 'Id',

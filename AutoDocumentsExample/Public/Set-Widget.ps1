@@ -41,7 +41,7 @@
 function Set-Widget {
     [CmdletBinding(ConfirmImpact = 'Medium',
                    HelpUri = 'http://autodocumentsexample.readthedocs.io/en/latest/functions/Set-Widget.md')]
-    [OutputType([widget])]
+    [OutputType('widget')]
     param
     (
         [Parameter(Mandatory = $true,
