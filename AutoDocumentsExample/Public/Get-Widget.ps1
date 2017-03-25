@@ -28,7 +28,10 @@
     
     .LINK
         http://autodocumentsexample.readthedocs.io/en/latest/functions/Set-Widget.md
-    
+
+    .LINK
+        https://github.com/markekraus/AutoDocumentsExample/blob/master/AutoDocumentsExample/Public/Get-Widget.ps1
+
     .LINK
         https://store.adatum-widgets.com/
 #>

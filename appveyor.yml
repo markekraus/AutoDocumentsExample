@@ -2,7 +2,7 @@
 
 environment:
   access_token:
-    secure: UndRAF7de2XHbjNeYreSWA==
+    secure: +mnipwj1c7UIzB4XZzoxTTZEnsN/i6M3MyskHX/4wQUYCrCL5yQNR/1Qf1ws21bu
 
 # Allow WMF5 (i.e. PowerShellGallery functionality)
 os: WMF 5
